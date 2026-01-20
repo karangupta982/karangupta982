@@ -125,14 +125,6 @@ India | Open to Remote Opportunities
 
 ---
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=karangupta982&theme=dark&hide_border=false&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=karangupta982&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karangupta982&theme=dark&layout=compact)
-
----
-
 ### Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=karangupta982&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
