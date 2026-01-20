@@ -125,10 +125,5 @@ India | Open to Remote Opportunities
 
 ---
 
-### Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=karangupta982&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 > *Focused on building systems that are scalable, observable, and easy to operate.*
 
