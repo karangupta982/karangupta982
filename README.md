@@ -8,12 +8,11 @@ I build backend systems, automation tooling, and cloud-native infrastructure.
 
 ## About Me
 
-- Backend development using **Python (FastAPI) and Node.js**
-- Platform engineering: **CI/CD, infrastructure automation, developer tooling**
-- Containerized systems with **Docker and Kubernetes**
-- Cloud deployments on **AWS (EC2, S3, IAM)**
-- Databases: **PostgreSQL, MongoDB, Redis**
-- Strong problem solving background: **950+ DSA problems solved (~1700 rating)**
+- Backend & Platform-focused engineer with strong foundations in **Python (FastAPI) and Node.js**, **system design**, and **automation**
+- Experienced in building production-grade APIs, CI/CD pipelines, and cloud-native systems
+- Actively working on Python-based automation, DevOps tooling, and scalable backend architectures
+- Hands-on experience with **Docker, Kubernetes, GitHub Actions, AWS, and distributed systems**
+- Strong problem-solving background with **950+ DSA problems solved and ~1700 rating**
 
 I enjoy turning manual and unreliable processes into **automated and maintainable systems**.
 
@@ -35,7 +34,7 @@ I enjoy turning manual and unreliable processes into **automated and maintainabl
 
 ---
 
-## Tech Stack
+## Tech Stack I Use
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
