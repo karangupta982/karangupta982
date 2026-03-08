@@ -3,9 +3,6 @@
 **Python Backend • Automation & DevOps Engineer**  
 Building reliable backend systems, automating infrastructure, and designing scalable platforms.
 
-India | Open to Remote Opportunities  
-*I believe automation is a force multiplier for engineering teams.*
-
 ---
 
 ## About Me
@@ -13,7 +10,7 @@ India | Open to Remote Opportunities
 - Backend & Platform-focused engineer with strong foundations in **Python, system design, and automation**
 - Experienced in building **production-grade APIs, CI/CD pipelines, and cloud-native systems**
 - Actively working on **Python-based automation, DevOps tooling, and scalable backend architectures**
-- Hands-on experience with **Docker, Kubernetes, GitHub Actions, AWS**, and distributed systems
+- Hands-on experience with **Docker, Kubernetes, GitHub Actions, AWS, **, and distributed systems
 - Strong problem-solving background with **950+ DSA problems solved** and ~**1700 rating**
 - I enjoy turning **manual, error-prone processes into reliable automated systems**
 
