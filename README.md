@@ -1,75 +1,86 @@
 # Hi, I'm Karan Gupta
 
-**Backend & Platform Engineer**
+**Backend & Platform Engineer** · Go · Kubernetes · Cloud Infrastructure · Distributed Systems
 
-I build backend systems, automation tooling, and cloud-native infrastructure.
+Platform Engineering Intern at EagleView. Contributing to Kubernetes and infrastructure open source.
 
----
-
-## About Me
-
-- Backend & Platform-focused engineer with strong foundations in **Python (FastAPI) and Node.js**, **system design**, and **automation**
-- Experienced in building production-grade APIs, CI/CD pipelines, and cloud-native systems
-- Actively working on Python-based automation, DevOps tooling, and scalable backend architectures
-- Hands-on experience with **Docker, Kubernetes, GitHub Actions, AWS, and distributed systems**
-- Strong problem-solving background with **950+ DSA problems solved and ~1700 rating**
-
-I enjoy turning manual and unreliable processes into **automated and maintainable systems**.
+[![GitHub](https://img.shields.io/badge/GitHub-karangupta982-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karangupta982)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-karan--gupta10-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-gupta10)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gupta.karan1.gh@gmail.com)
 
 ---
 
-## Projects
+## What I Work On
 
-**[Scalable URL Shortener](https://github.com/karangupta982/system-design/tree/main/04-high-level-designs/url-shortener)** — Distributed URL shortening service built with microservices architecture, featuring Snowflake-based ID generation, Redis caching, and Cassandra storage for high-throughput redirects.
-
-**[AINotify](https://github.com/karangupta982/ainotify)** — AI-powered news aggregation platform that scrapes content from multiple sources, summarizes articles using LLMs, and generates personalized digests.
-
-**[Interview Tree AI](https://github.com/karangupta982/interview-tree-ai)** — AI-powered learning platform that generates hierarchical topic trees and interactive Q&A using LLM pipelines and FastAPI.
-
-**[Online Learning Platform](https://github.com/karangupta982/onlineLearning)** — Full-stack course platform with role-based dashboards, payments integration, and Kubernetes deployment on AWS with automated CI/CD.
-
-**[Predictcare AI](https://github.com/karangupta982/MultiModalDiseasePrediction)** — Machine learning healthcare assistant that predicts diseases and provides instant AI-based medical assessments.
-
-**[Insureflow](https://github.com/karangupta982/InsureFlow)** — End-to-end MLOps pipeline for insurance prediction including data ingestion, feature engineering, model training, and FastAPI deployment.
+- Backend and platform engineering in **Go** and **Python**
+- Kubernetes controllers and operators built on controller-runtime
+- Cloud automation on AWS: FinOps analysis, access provisioning, and secure EKS deployments
+- Distributed systems and open-source infrastructure
+- Problem solving: LeetCode max rating **1711**, global rank **894 / 30,000+** in Weekly Contest 466
 
 ---
 
-## Tech Stack I Use
+## Open Source
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**rqlite**<br>
+[![PR 2741](https://img.shields.io/badge/PR%20%232741-Merged-8957e5?style=flat-square&logo=github)](https://github.com/rqlite/rqlite/pull/2741)
+[![PR 2745](https://img.shields.io/badge/PR%20%232745-Merged-8957e5?style=flat-square&logo=github)](https://github.com/rqlite/rqlite/pull/2745)
+[![PR 2758](https://img.shields.io/badge/PR%20%232758-Merged-8957e5?style=flat-square&logo=github)](https://github.com/rqlite/rqlite/pull/2758)
+[![PR 2768](https://img.shields.io/badge/PR%20%232768-Merged-8957e5?style=flat-square&logo=github)](https://github.com/rqlite/rqlite/pull/2768)
 
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
+**flagforge**<br>
+[![PR 5](https://img.shields.io/badge/PR%20%235-Merged-8957e5?style=flat-square&logo=github)](https://github.com/rqlite/flagforge/pull/5)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+**K8sGPT**<br>
+[![PR 1783](https://img.shields.io/badge/PR%20%231783-Merged-8957e5?style=flat-square&logo=github)](https://github.com/k8sgpt-ai/k8sgpt/pull/1783)
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+**K8sGPT Operator**<br>
+[![PR 849](https://img.shields.io/badge/PR%20%23849-Merged-8957e5?style=flat-square&logo=github)](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/849)
+[![PR 853](https://img.shields.io/badge/PR%20%23853-Merged-8957e5?style=flat-square&logo=github)](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/853)
 
-### Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+**KAI Scheduler**<br>
+[![PR 2273](https://img.shields.io/badge/PR%20%232273-Open-2da44e?style=flat-square&logo=github)](https://github.com/kai-scheduler/KAI-Scheduler/pull/2273)
+[![PR 2288](https://img.shields.io/badge/PR%20%232288-Open-2da44e?style=flat-square&logo=github)](https://github.com/kai-scheduler/KAI-Scheduler/pull/2288)
 
----
-## Connect With Me
+**OpenTelemetry Operator**<br>
+[![PR 5680](https://img.shields.io/badge/PR%20%235680-Open-2da44e?style=flat-square&logo=github)](https://github.com/open-telemetry/opentelemetry-operator/pull/5680)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-gupta10)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gupta.karan.gh@gmail.com)
+**Kubeflow Spark Operator**<br>
+[![PR 3201](https://img.shields.io/badge/PR%20%233201-Open-2da44e?style=flat-square&logo=github)](https://github.com/kubeflow/spark-operator/pull/3201)
+
+**etcd-operator**<br>
+[![PR 485](https://img.shields.io/badge/PR%20%23485-Open-2da44e?style=flat-square&logo=github)](https://github.com/etcd-io/etcd-operator/pull/485)
 
 ---
 
-> *Focused on building systems that are scalable, observable, and easy to operate.*
+## Experience
 
+**EagleView** · Platform Engineering Intern<br>
+Built AWS FinOps investigation across 28+ accounts (3 hrs to 3–5 min), a deployment promotion pipeline (3.2 hrs to under 15 min), and access-provisioning automation (1 week to under 5 min). Also shipped security and publishing services on AWS EKS.
+
+**Accura Tequipment** · Full Stack Developer Intern<br>
+Built the backend of a multi-tenant academic SaaS (30+ REST APIs) and an AI question-paper generator that cut creation time from ~3 hours to under 5 minutes.
+
+---
+
+## Featured Projects
+
+### [Kubernetes Incident Investigator](https://github.com/karangupta982/k8s-incident-investigator) · `v0.1.0`
+A Kubernetes-native controller in Go that detects workload failures (OOMKilled, CrashLoopBackOff, ImagePullBackOff, scheduling and probe issues) and records root-cause reports as `IncidentReport` CRDs. Uses a deterministic 10-rule diagnosis engine, ships as a Helm OCI chart with multi-arch images, and exposes Prometheus metrics.<br>
+[Repository](https://github.com/karangupta982/k8s-incident-investigator) · [Releases](https://github.com/karangupta982/k8s-incident-investigator/releases)
+
+### [Distributed URL Shortener](https://github.com/karangupta982/system-design/tree/main/04-high-level-designs/url-shortener)
+Microservices-based shortener with an API Gateway, Snowflake IDs coordinated through ZooKeeper, Cassandra for storage, Redis for caching, and MongoDB for auth.<br>
+[Code](https://github.com/karangupta982/system-design/tree/main/04-high-level-designs/url-shortener)
+
+---
+
+## More Projects
+
+- **AINotify**: AI news aggregator with LLM summaries and personalized digests. [Live](https://ainotify.vercel.app/) · [Code](https://github.com/karangupta982/ainotify)
+- **InsureFlow**: MLOps pipeline for insurance purchase prediction. [Live](https://insure-flow-frontend.vercel.app/) · [Backend](https://github.com/karangupta982/InsureFlow) · [Frontend](https://github.com/karangupta982/InsureFlowFrontend)
+- **Online Learning Platform**: Course platform with role-based dashboards and payments. [Live](https://online-learning-zeta-dun.vercel.app/) · [Backend](https://github.com/karangupta982/onlineLearning) · [Frontend](https://github.com/karangupta982/online-learning)
+- **Interview Tree AI**: LLM-generated topic trees with interactive Q&A. [Live](https://interview-tree-ai.vercel.app/) · [Code](https://github.com/karangupta982/interview-tree-ai)
+- **PredictCare AI**: ML-based disease prediction assistant. [Live](https://predictcareai.vercel.app/) · [Code](https://github.com/karangupta982/MultiModalDiseasePrediction)
+- **My Second Brain**: Chrome extension with semantic search over saved web content. [Code](https://github.com/karangupta982/My-Second-Brain)
+- **AWS Resource Usage Tracker**: Daily AWS usage report via GitHub Actions. [Code](https://github.com/karangupta982/resourceUsageTracker)
