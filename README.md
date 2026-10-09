@@ -18,39 +18,50 @@ Platform Engineering Intern at EagleView. Contributing to Kubernetes and infrast
 - Distributed systems and open-source infrastructure
 - Problem solving: LeetCode max rating **1711**, global rank **894 / 30,000+** in Weekly Contest 466
 
+
 ---
+
 
 ## Open Source
 
-**rqlite**<br>
+**rqlite - Lightweight, distributed relational database built on SQLite and Raft**<br>
+
 [![PR 2741](https://img.shields.io/badge/PR%20%232741-Merged-8957e5?style=flat-square&logo=github)](https://github.com/rqlite/rqlite/pull/2741)
 [![PR 2745](https://img.shields.io/badge/PR%20%232745-Merged-8957e5?style=flat-square&logo=github)](https://github.com/rqlite/rqlite/pull/2745)
 [![PR 2758](https://img.shields.io/badge/PR%20%232758-Merged-8957e5?style=flat-square&logo=github)](https://github.com/rqlite/rqlite/pull/2758)
 [![PR 2768](https://img.shields.io/badge/PR%20%232768-Merged-8957e5?style=flat-square&logo=github)](https://github.com/rqlite/rqlite/pull/2768)
 
-**flagforge**<br>
+**flagforge - Generates Go, Markdown, and HTML from configuration flag definitions**<br>
+
 [![PR 5](https://img.shields.io/badge/PR%20%235-Merged-8957e5?style=flat-square&logo=github)](https://github.com/rqlite/flagforge/pull/5)
 
-**K8sGPT**<br>
+**K8sGPT - CNCF project that scans Kubernetes clusters and explains issues using AI**<br>
+
 [![PR 1783](https://img.shields.io/badge/PR%20%231783-Merged-8957e5?style=flat-square&logo=github)](https://github.com/k8sgpt-ai/k8sgpt/pull/1783)
 
-**K8sGPT Operator**<br>
+**K8sGPT Operator - Runs K8sGPT inside a cluster as a Kubernetes operator**<br>
+
 [![PR 849](https://img.shields.io/badge/PR%20%23849-Merged-8957e5?style=flat-square&logo=github)](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/849)
 [![PR 853](https://img.shields.io/badge/PR%20%23853-Merged-8957e5?style=flat-square&logo=github)](https://github.com/k8sgpt-ai/k8sgpt-operator/pull/853)
 
-**KAI Scheduler**<br>
+**KAI Scheduler (NVIDIA) - Kubernetes-native scheduler optimizing GPU allocation for AI/ML workloads**<br>
+
 [![PR 2273](https://img.shields.io/badge/PR%20%232273-Open-2da44e?style=flat-square&logo=github)](https://github.com/kai-scheduler/KAI-Scheduler/pull/2273)
 [![PR 2288](https://img.shields.io/badge/PR%20%232768-Merged-8957e5?style=flat-square&logo=github)](https://github.com/kai-scheduler/KAI-Scheduler/pull/2288)
 [![PR 2322](https://img.shields.io/badge/PR%20%232322-Open-2da44e?style=flat-square&logo=github)](https://github.com/kai-scheduler/KAI-Scheduler/pull/2322)
 
-**OpenTelemetry Operator**<br>
+**OpenTelemetry Operator - Manages OpenTelemetry Collector and auto-instrumentation on Kubernetes**<br>
+
 [![PR 5680](https://img.shields.io/badge/PR%20%235680-Open-2da44e?style=flat-square&logo=github)](https://github.com/open-telemetry/opentelemetry-operator/pull/5680)
 
-**Kubeflow Spark Operator**<br>
+**Kubeflow Spark Operator - Runs and manages Apache Spark applications on Kubernetes**<br>
+
 [![PR 3201](https://img.shields.io/badge/PR%20%233201-Open-2da44e?style=flat-square&logo=github)](https://github.com/kubeflow/spark-operator/pull/3201)
 
-**etcd-operator**<br>
+**etcd-operator - Kubernetes operator for managing etcd clusters**<br>
+
 [![PR 485](https://img.shields.io/badge/PR%20%23485-Open-2da44e?style=flat-square&logo=github)](https://github.com/etcd-io/etcd-operator/pull/485)
+
 
 ---
 
