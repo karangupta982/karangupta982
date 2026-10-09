@@ -41,6 +41,7 @@ Platform Engineering Intern at EagleView. Contributing to Kubernetes and infrast
 **KAI Scheduler**<br>
 [![PR 2273](https://img.shields.io/badge/PR%20%232273-Open-2da44e?style=flat-square&logo=github)](https://github.com/kai-scheduler/KAI-Scheduler/pull/2273)
 [![PR 2288](https://img.shields.io/badge/PR%20%232768-Merged-8957e5?style=flat-square&logo=github)](https://github.com/kai-scheduler/KAI-Scheduler/pull/2288)
+[![PR 2322](https://img.shields.io/badge/PR%20%232322-Open-2da44e?style=flat-square&logo=github)](https://github.com/kai-scheduler/KAI-Scheduler/pull/2322)
 
 **OpenTelemetry Operator**<br>
 [![PR 5680](https://img.shields.io/badge/PR%20%235680-Open-2da44e?style=flat-square&logo=github)](https://github.com/open-telemetry/opentelemetry-operator/pull/5680)
